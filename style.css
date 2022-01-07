@@ -1,0 +1,41 @@
+* {
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: dodgerblue;
+  padding-top: 250px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  display: inline;
+  font-size: xx-large;
+  background-color: green;
+  border-radius: 8px;
+  margin: 5px;
+  padding: 3px;
+}
+
+input {
+  cursor: pointer;
+  border: none;
+  margin: 7px;
+  font-size: x-large;
+  border-radius: 8px;
+  background-color: orange;
+  padding: 3px;
+  margin-top: 15px;
+}
